@@ -1,12 +1,12 @@
 ### Compound_classifier (Multi-Layer perceptron)
 
 This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-Layer perceptron.
+<img src = "https://www.google.com/search?q=multilayer+perceptron&rlz=1C1CHBF_enIN778IN778&sxsrf=ACYBGNStKNacW9i2Qeq2d8YAcfIDMTx34g:1576420946947&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWobzU8bfmAhUUWX0KHZFdCUQQ_AUoAXoECBMQAw&biw=767&bih=718&dpr=1.25#imgrc=RYuRWVAacKT1bM:">
 
 ### DATA
 1. 166 features
 2. Class 1 = Musk and 0 = NON-MUSK
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Dataset.png">
-
 ### Model trainning
  1. Initialize parameters / Define hyperparameters
  2. Loop for num_iterations:
