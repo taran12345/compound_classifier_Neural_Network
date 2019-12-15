@@ -10,6 +10,7 @@ This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-La
 ### Model trainning
  1. Initialize parameters / Define hyperparameters
  2. Loop for num_iterations:
+     
      a. Forward propagation
      b. Compute cost function
      c. Backward propagation
