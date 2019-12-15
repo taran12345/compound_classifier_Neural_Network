@@ -1,4 +1,4 @@
-#### compound_classifier (Multi-Layer perceptron)
+### Compound_classifier (Multi-Layer perceptron)
 
 This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-Layer perceptron.
 
@@ -19,5 +19,5 @@ This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-La
 
 ### Result
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/graphical_representation.png">
-### Classification_Report
+###  Classification_Report
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Classification_report.png">
