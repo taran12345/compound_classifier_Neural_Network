@@ -25,9 +25,9 @@ MLP uses backpropogation for training the network. MLP is a deep learning method
  4. Use trained parameters to predict labels
 
 ### Result
-<img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/graphical_representation.png">
+<img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Graph.png">
 
 ### Classification_Report
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Classification_report.png">
 
-### ACCURACY : 97%
+### ACCURACY : 98%
