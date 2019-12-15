@@ -7,6 +7,7 @@ A multilayer perceptron (MLP) is a feedforward artificial neural network that ge
 An MLP is characterized by several layers of input nodes connected as a directed graph between the input and output layers.
 MLP uses backpropogation for training the network. MLP is a deep learning method.
 
+
 ### DATA
 1. 166 features
 2. Class 1 = Musk and 0 = NON-MUSK
