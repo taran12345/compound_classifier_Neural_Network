@@ -15,8 +15,6 @@ This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-La
      c. Backward propagation
      d. Update parameters (using parameters, and grads from backprop) 
  4. Use trained parameters to predict labels
-<img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/forward_prop.png">
-<img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Backpropgation.png">
 
 ### Result
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/graphical_representation.png">
