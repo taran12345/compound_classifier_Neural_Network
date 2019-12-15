@@ -6,6 +6,7 @@ This code helps you classify compounds either'Musk' or 'Non-Musk' using Multi-La
 A multilayer perceptron (MLP) is a feedforward artificial neural network that generates a set of outputs from a set of inputs.
 An MLP is characterized by several layers of input nodes connected as a directed graph between the input and output layers.
 MLP uses backpropogation for training the network. MLP is a deep learning method.
+<img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/multilayer-perceptron.png">
 
 
 ### DATA
