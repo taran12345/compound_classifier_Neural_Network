@@ -11,6 +11,7 @@ MLP uses backpropogation for training the network. MLP is a deep learning method
 1. 166 features
 2. Class 1 = Musk and 0 = NON-MUSK
 <img src = "https://github.com/taran12345/compound_classifier_Neural_Network/blob/master/Dataset.png">
+
 ### Model trainning
  1. Initialize parameters / Define hyperparameters
  2. Loop for num_iterations:
